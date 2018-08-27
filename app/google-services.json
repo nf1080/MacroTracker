@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "62648055919",
+    "firebase_url": "https://macrotrackerfirebase.firebaseio.com",
+    "project_id": "macrotrackerfirebase",
+    "storage_bucket": "macrotrackerfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62648055919:android:a3b3bf0fcbc43008",
+        "android_client_info": {
+          "package_name": "com.fesefeldt.neal.macrotracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62648055919-44k89bhu6qaeiur514t4j1ugkfu0hcju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fesefeldt.neal.macrotracker",
+            "certificate_hash": "5d71208ec8bf9aa957aad8f86219f5ef743beff0"
+          }
+        },
+        {
+          "client_id": "62648055919-l0ruaipn4fu4bh7bmbps3faro9khc8u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBApFACObzuADXOJNHJZzW2YN0zHtVK2iA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62648055919-l0ruaipn4fu4bh7bmbps3faro9khc8u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
